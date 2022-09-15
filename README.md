@@ -1,1 +1,10 @@
 # ERC_Synergy2022
+
+The consequence of the early cluster propeties and their evolution of
+stellar systems on the eventual population of families of objects.
+
+In alphabetic order:
+Mark Gieles <mgieles@icc.ub.edu>
+Elena Pancino <elena.pancino@inaf.it>
+Simon Portegies Zwart <spz@strw.leidenuniv.nl>
+Silvia Toonen <S.G.M.Toonen@uva.nl>
