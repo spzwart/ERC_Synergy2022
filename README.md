@@ -13,3 +13,5 @@ Silvia Toonen <S.G.M.Toonen@uva.nl>
 Actions:
  * upload the presentations
  * investigate online tools for project management and story-board
+ * Study the ERC rules (in relation to ADG, etc)
+ * Study the online advice resources
