@@ -8,3 +8,8 @@ Mark Gieles <mgieles@icc.ub.edu>
 Elena Pancino <elena.pancino@inaf.it>
 Simon Portegies Zwart <spz@strw.leidenuniv.nl>
 Silvia Toonen <S.G.M.Toonen@uva.nl>
+
+
+Actions:
+ * upload the presentations
+ * investigate online tools for project management and story-board
